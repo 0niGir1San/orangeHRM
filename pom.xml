@@ -96,12 +96,6 @@
             <artifactId>assertj-core</artifactId>
             <version>3.22.0</version>
         </dependency>
-        <!-- Selenium Opera Driver Dependency -->
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-opera-driver</artifactId>
-            <version>4.4.0</version>
-        </dependency>
     </dependencies>
 
     <build>
