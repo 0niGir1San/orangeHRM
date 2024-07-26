@@ -1,0 +1,936 @@
+2024-07-23 13:44:35 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 13:44:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 13:44:36 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 13:44:36 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 14:22:31 23/07/2024 ALMT)
+2024-07-23 13:44:36 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 13:44:36 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:44:36 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 13:44:36 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:51:14 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 13:51:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 13:51:15 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 13:51:15 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 14:22:31 23/07/2024 ALMT)
+2024-07-23 13:51:15 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 13:51:15 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:51:15 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 13:51:15 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:55:26 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 13:55:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 13:55:27 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 13:55:27 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 14:22:31 23/07/2024 ALMT)
+2024-07-23 13:55:27 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 13:55:27 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:55:27 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 13:55:27 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:56:06 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 13:56:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 13:56:07 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 13:56:08 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 14:22:31 23/07/2024 ALMT)
+2024-07-23 13:56:08 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 13:56:08 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:56:08 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 13:56:08 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 14:00:45 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 14:00:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 14:00:46 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 14:00:46 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 14:22:31 23/07/2024 ALMT)
+2024-07-23 14:00:46 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 14:00:46 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 14:00:46 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 14:00:46 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 14:37:09 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 14:37:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 14:37:10 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 14:37:10 DEBUG ResolutionCache:156 - Removing resolution chrome=126 from cache (expired on Tue Jul 23 14:22:31 ALMT 2024)
+2024-07-23 14:37:10 DEBUG InternalHttpClient:164 - ex-0000000001 preparing request execution
+2024-07-23 14:37:10 DEBUG ProtocolExec:181 - ex-0000000001 target auth state: UNCHALLENGED
+2024-07-23 14:37:10 DEBUG ProtocolExec:187 - ex-0000000001 proxy auth state: UNCHALLENGED
+2024-07-23 14:37:10 DEBUG ConnectExec:123 - ex-0000000001 acquiring connection with route {s}->https://raw.githubusercontent.com:443
+2024-07-23 14:37:10 DEBUG InternalHttpClient:101 - ex-0000000001 acquiring endpoint (3 MINUTES)
+2024-07-23 14:37:10 DEBUG PoolingHttpClientConnectionManager:296 - ex-0000000001 endpoint lease request (3 MINUTES) [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 0 of 5; total allocated: 0 of 25]
+2024-07-23 14:37:10 DEBUG PoolingHttpClientConnectionManager:318 - ex-0000000001 endpoint leased [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+2024-07-23 14:37:10 DEBUG PoolingHttpClientConnectionManager:360 - ex-0000000001 acquired ep-0000000001
+2024-07-23 14:37:10 DEBUG InternalHttpClient:116 - ex-0000000001 acquired endpoint ep-0000000001
+2024-07-23 14:37:10 DEBUG ConnectExec:130 - ex-0000000001 opening connection {s}->https://raw.githubusercontent.com:443
+2024-07-23 14:37:10 DEBUG InternalHttpClient:160 - ep-0000000001 connecting endpoint (null)
+2024-07-23 14:37:10 DEBUG PoolingHttpClientConnectionManager:444 - ep-0000000001 connecting endpoint to https://raw.githubusercontent.com:443 (30 SECONDS)
+2024-07-23 14:37:10 DEBUG DefaultHttpClientConnectionOperator:138 - raw.githubusercontent.com resolving remote address
+2024-07-23 14:37:10 DEBUG DefaultHttpClientConnectionOperator:144 - raw.githubusercontent.com resolved to [raw.githubusercontent.com/185.199.109.133, raw.githubusercontent.com/185.199.108.133, raw.githubusercontent.com/185.199.111.133, raw.githubusercontent.com/185.199.110.133]
+2024-07-23 14:37:10 DEBUG DefaultHttpClientConnectionOperator:177 - raw.githubusercontent.com:443 connecting null->raw.githubusercontent.com/185.199.109.133:443 (30 SECONDS)
+2024-07-23 14:37:10 DEBUG SSLConnectionSocketFactory:226 - Connecting socket to raw.githubusercontent.com/185.199.109.133:443 with timeout 30 SECONDS
+2024-07-23 14:37:10 DEBUG SSLConnectionSocketFactory:299 - Enabled protocols: [TLSv1.3, TLSv1.2]
+2024-07-23 14:37:10 DEBUG SSLConnectionSocketFactory:300 - Enabled cipher suites: [TLS_AES_256_GCM_SHA384, TLS_AES_128_GCM_SHA256, TLS_CHACHA20_POLY1305_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2024-07-23 14:37:10 DEBUG SSLConnectionSocketFactory:301 - Starting handshake (null)
+2024-07-23 14:37:10 DEBUG SSLConnectionSocketFactory:59 - Secure session established
+2024-07-23 14:37:10 DEBUG SSLConnectionSocketFactory:60 -  negotiated protocol: TLSv1.3
+2024-07-23 14:37:10 DEBUG SSLConnectionSocketFactory:61 -  negotiated cipher suite: TLS_AES_128_GCM_SHA256
+2024-07-23 14:37:10 DEBUG SSLConnectionSocketFactory:71 -  peer principal: CN=*.github.io, O="GitHub, Inc.", L=San Francisco, ST=California, C=US
+2024-07-23 14:37:10 DEBUG SSLConnectionSocketFactory:80 -  peer alternative names: [*.github.io, github.io, githubusercontent.com, www.github.com, *.github.com, *.githubusercontent.com, github.com]
+2024-07-23 14:37:10 DEBUG SSLConnectionSocketFactory:84 -  issuer principal: CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1, O=DigiCert Inc, C=US
+2024-07-23 14:37:10 DEBUG DefaultManagedHttpClientConnection:165 - http-outgoing-0 set socket timeout to 3 MINUTES
+2024-07-23 14:37:10 DEBUG DefaultHttpClientConnectionOperator:185 - raw.githubusercontent.com:443 connected null->raw.githubusercontent.com/185.199.109.133:443 as http-outgoing-0
+2024-07-23 14:37:10 DEBUG PoolingHttpClientConnectionManager:456 - ep-0000000001 connected http-outgoing-0
+2024-07-23 14:37:10 DEBUG InternalHttpClient:164 - ep-0000000001 endpoint connected
+2024-07-23 14:37:10 DEBUG MainClientExec:107 - ex-0000000001 executing GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+2024-07-23 14:37:10 DEBUG RequestAddCookies:129 - ex-0000000001 Cookie spec selected: strict
+2024-07-23 14:37:10 DEBUG InternalHttpClient:214 - ep-0000000001 start execution ex-0000000001
+2024-07-23 14:37:10 DEBUG PoolingHttpClientConnectionManager:710 - ep-0000000001 executing exchange ex-0000000001 over http-outgoing-0
+2024-07-23 14:37:10 DEBUG headers:200 - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+2024-07-23 14:37:10 DEBUG headers:203 - http-outgoing-0 >> user-agent: Apache-HttpClient/5.0
+2024-07-23 14:37:10 DEBUG headers:203 - http-outgoing-0 >> accept-encoding: gzip, deflate, br
+2024-07-23 14:37:10 DEBUG headers:203 - http-outgoing-0 >> cache-control: max-age=0
+2024-07-23 14:37:10 DEBUG headers:203 - http-outgoing-0 >> connection: keep-alive
+2024-07-23 14:37:10 DEBUG headers:203 - http-outgoing-0 >> Host: raw.githubusercontent.com
+2024-07-23 14:37:10 DEBUG wire:92 - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1[\r][\n]"
+2024-07-23 14:37:10 DEBUG wire:92 - http-outgoing-0 >> "user-agent: Apache-HttpClient/5.0[\r][\n]"
+2024-07-23 14:37:10 DEBUG wire:92 - http-outgoing-0 >> "accept-encoding: gzip, deflate, br[\r][\n]"
+2024-07-23 14:37:10 DEBUG wire:92 - http-outgoing-0 >> "cache-control: max-age=0[\r][\n]"
+2024-07-23 14:37:10 DEBUG wire:92 - http-outgoing-0 >> "connection: keep-alive[\r][\n]"
+2024-07-23 14:37:10 DEBUG wire:92 - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+2024-07-23 14:37:10 DEBUG wire:92 - http-outgoing-0 >> "[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Content-Length: 745[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "ETag: W/"dd41edff335272162022217759820159dac501cff56850e2510f504462cd9b5f"[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "X-GitHub-Request-Id: 3735:246BC4:232131:25677D:669F02FA[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Date: Tue, 23 Jul 2024 09:37:11 GMT[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "X-Served-By: cache-bma1661-BMA[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "X-Cache: HIT[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "X-Cache-Hits: 4[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "X-Timer: S1721727431.319810,VS0,VE0[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Vary: Authorization,Accept-Encoding,Origin[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Cross-Origin-Resource-Policy: cross-origin[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "X-Fastly-Request-ID: 1a557281aba15dbe197f5c2069aff6ff8d8a3cbd[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Expires: Tue, 23 Jul 2024 09:42:11 GMT[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "Source-Age: 242[\r][\n]"
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "[\r][\n]"
+2024-07-23 14:37:11 DEBUG headers:189 - http-outgoing-0 << HTTP/1.1 200 OK
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Connection: keep-alive
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Content-Length: 745
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Cache-Control: max-age=300
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << ETag: W/"dd41edff335272162022217759820159dac501cff56850e2510f504462cd9b5f"
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << X-Content-Type-Options: nosniff
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << X-Frame-Options: deny
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << X-GitHub-Request-Id: 3735:246BC4:232131:25677D:669F02FA
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Content-Encoding: gzip
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Accept-Ranges: bytes
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Date: Tue, 23 Jul 2024 09:37:11 GMT
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Via: 1.1 varnish
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << X-Served-By: cache-bma1661-BMA
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << X-Cache: HIT
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << X-Cache-Hits: 4
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << X-Timer: S1721727431.319810,VS0,VE0
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Vary: Authorization,Accept-Encoding,Origin
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Access-Control-Allow-Origin: *
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Cross-Origin-Resource-Policy: cross-origin
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << X-Fastly-Request-ID: 1a557281aba15dbe197f5c2069aff6ff8d8a3cbd
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Expires: Tue, 23 Jul 2024 09:42:11 GMT
+2024-07-23 14:37:11 DEBUG headers:192 - http-outgoing-0 << Source-Age: 242
+2024-07-23 14:37:11 DEBUG MainClientExec:138 - ex-0000000001 connection can be kept alive for 3 MINUTES
+2024-07-23 14:37:11 DEBUG wire:92 - http-outgoing-0 << "[0x1f][0xffffff8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xffffffb5]W]o[0xffffffda]0[0x14]}[0xffffffe7]W\QUj% [0x1b][0xffffffad][0xffffffa6]i[0x12][0xf]4c[0xffffffdd]4*[0x18][0xffffffb4][0xffffffdd]&[0xfffffff9][0xffffffc5]$N[0xffffffb0][0xffffff94][0xffffffd8][0xffffffc8]NJ[0xffffffb7]_?[0xffffffdb][0xfffffff9]X[0xffffff92]:[0xffffffa3]k[0xffffffe8][0x1b][0xffffffb6][0xffffffef]=[0xffffffe7][0xffffffd8][0xfffffff7][0xffffffe4][0xffffffda][0xffffff9c][0xffffff80][0xffffffcb][0xffffffe3][0x18]3_[0xffffff82][0xffffff8f][0x13][0xffffffbc][0xffffffc1][0xffffff92][0xfffffff4]N[0xffffffe0]vK%[0x4]4"[0xffffffe0]q[0xffffff96]`[0xffffffca]$$[=[0xffffffc8]C[0x13][0xe][0x1b][0x2][0xffffffe4][0xffffff91]xiB|[0xffffffa0][0xffffffcc],[0xffffffcb]-[0xffffff89]"=[0xffffffe0][0xffffffc2]'B[0x7][0xfffffff9]$!^b[0x16][0x1f][0xffffff88][0xffffff90][0xffffff94][0xffffffab][0xffffffb5][0x0][0xffffff88][0xfffffffa][0x1d][\n]"
+2024-07-23 14:37:11 DEBUG wire:106 - http-outgoing-0 << "B[0x18]l[0x4][0xffffffdf]K[0xffffffb5][0xffffffa0]([0xffffffcf][0xffffffdc][0xffffffad][0xffffffe0]1[0x19][0xffffffc0]'*H[0xffffffc0][0x1f][0x7][0xffffffb0][0xffffffd8][0x11][0xffffff81][0x7]0[0xfffffff3]C5kVi[0x1a][0xffffff9f]k|[0xffffff9f][0x6][0x1][0x11][0xffffff84]%[0xffffffc0]uLBY[0x8][0xfffffff2][0xffffff97]LH,[0xffffffe1][0xffffffec];e[0xffffffbe]B[0x1d][0xffffffc0][0xffffff9c][0xffffffb2]T[0xffffffc1][0xffffffdc]`[0xf][0x16][0xffffffeb][0xfffffff3][0xffffff9e][0xffffffe2][0xffffffc8](z[0xfffffff9]6F[0xffffff9e][0x19][0xffffff8e][0xfffffff6]Y[0xffffffc2][0xffffffe8][0xffffffcd][0xffffffdb][0xffffff89][0x17][0xfffffffb]#[0xffffffb5]+p\[0xffffffd8][0xffffffc7][0xffffffd4]3Gb[0xffffff8e]a[0xffffffbf]U|[0xffffffc0]pL&[0xfffffffd][0xffffffd3][0xffffffe5]jq[0xffffffbd][0xffffff9a][0xffffffde]|[0xfffffffa]2[0xffffff9f][0xffffffad]?[0xffffffa0][0x9]B[0xffffffa7][0x8]]s[0x1e]F[0x4][0xffffffa1][0xffffff8c][0x2][0xffffffa1][0xffffffe9]n[0x17]QOI[0xffffffe3][0xc][0xffffffa1][0xffffff9c]H![0xfffffff7]!$[0x9][0xffffffdc][0xffffffe7]g[0xffffffe1]<[0xffffffe0](m[0xffffffd7]3~[0xffffff81][0xffffff9e][0xffffffb3][0x1f][0xffffffef][0xffffffdf][0xffffff9d][0xffffffbf][0xffffffa6][0xffffffa8][0xffffff8b]g[0xffffff8a][0xffffff9a]/[0xffffffdc][0xffffffe9]|[0xffffffba]\~[0xffffff9c][0xffffffde]N_S[0xffffffcf][0xffffffe5]d5[0xffffffbb][0xffffff86]ow[0xffffffb3][0xffffffd5]O[0xfffffff8][0xfffffffc][0xffffffd5][0xffffffbd]Ck[0x1e]${,H[0xffffffc1][0xffffff96][0xffffff93]][0xffffffcd][0xffffffaf][0x8][0xfffffff6][0xc]^[0xffffffe1][0xffffffc5]^[0x13]4[0xffffffd2][0xffffff8e][0xffffffd1]>pR)[0xffffff9c][\r]eNh0[0xffffff86][0xffffffd9]:[0xc][0xffffff87]E[0xffffffa6]=q<i[0xffffff8b]o&[0xffffffc4][0xffffffd8]3<[0xffffff95][0x13][0xffffff90]N&8w[0xffffffe9][0x8][0xffffffef]v[0xffffff8e][0xffffffab][0xffffffbe]>es[0xffffffe9]([0x13]/[0xffffffd6][0xfffffff5][0xffffff80]*[0xffffffba][0xfffffff2]v[0xfffffffe][0xffffffd9][0xffffff94]DA6>[0xffffff8e][0xffffffbb]o[0xfffffff8]o[0x1a]E[0xffffffb8] A[0xffffffa8]@?T[0xffffffad]'*:{[0xfffffffa]xR.*[0xffffffce][0xffffffe9][0xffffffd7][0xffffffad][0xffffff93][0xffffff93]4[0xffffffc9][0xfffffffa][0xffffffda]<n*t[0xffffffeb][0xffffffb9]oV[0xffffffb6][0xffffffc0]/M[0xffffff94]O[0xffffffc0][0xfffffff0][0xffffffe1]i[0xffffff90][0xffffffb5][0xfffffffe]9[0xffffff8b][0xffffffad][0xfffffff2]U,Ul[0xffffffdd][0x13]KL[0xffffffa2][0x6][0xffffffdd][0xffffffca]\?`[0xffffffea][0x9].[0xffffffd5]I [0xffffffa4]i[0x1a]_i,[\r][0xffffffdd][0xffffffa1][0xffffffc3][0xffffffae]kzI[0xffffffd1]_Q[0xffffffce]Ek[0xffffffcb][0xfffffff8]Kf[0xffffffb8][0xfffffffe][0xffffffd9]3[0xc][0xffffffe6][0xffffffd3][0xffffff8e][0x11][0x17][0x10]C[0x1d]`i[0x19][0xffffffd5][0xffffffbc][0xfffffff1][0xffffffa4]5[0xffffffbc][0x1e]o[0xfffffff5]K[0xffffffa9][0xffffffd6][0xfffffff8][0xffffffc1]f[0xffffff9b]z[0x4][0xffffffd4][0x1a][0xffffff86][0xffffffb9]^K[0x16]s[0xffffff91][0xfffffffe][0xffffffbf][0xffffff8b]l]~)x(p,[0x11]2[0x14][0x8]E8e[0xffffff9e][0xffffffca]:X[0xffffffa6][0xffffff86][0xffffff88].[0xffffffb6]9[0xffffff9a][0xffffff88].[0xfffffff7]]G[0xffffffea][0xffffffcb][0xe][0xfffffffb][0x7f].u[0xffffff83][0xffffffbb][0xfffffff4][0xffffffb3][0x19][0xffffffda][0xffffffec][0xffffff98][0xffffffc5]Y[0xfffffffd]h8m6\4[0xffffffc1][0xffffff8a][0xffffffb7][0xffffff98]z[0xffffffd0][0xffffffd5]oF5q[0x1c][0x13][0x16][0xfffffff0][0x1d][0x1e][0x19]5-[0xffffff9d][0xffffffef][0xffffffad]c[0xb]z[0xffffffae]/m[0xffffffe6]8[0xffffffb6][0xffffff96][0xfffffff6]7X[0xffffffc9]t[0xfffffff8][0xfffffff9][0xffffffa5][0x11]K[0xfffffffb][0x15]3[0xffffffc3][0xfffffffc][0x1f]B[0xffffffdb][0xffffffd3][0xffffffab][0xffffff92]4.[0xffffff93]Z[0xffffffdf]]:[0xffffffda][0xffffffea][0xffffffdc]B[0xffffffa6][0xffffffcd][0xffffffbc][0xffffffae][0x5][0xfffffff5][0x4][0xffffffd6]8[0xffffffc0][0xffffff82][0xffffff96][0xfffffff0][0xffffffd2][0xc][0xffffffed][0xffffffe0]Y[0xffffffa8][\r]:[[0xffffffa9][0x0][0xffffffff][0x1][0xfffffff8][0x15][0xffffffb4][0xffffffee][0xffffff8e][\r][0x0][0x0]"
+2024-07-23 14:37:11 DEBUG InternalHttpClient:256 - ep-0000000001 releasing valid endpoint
+2024-07-23 14:37:11 DEBUG PoolingHttpClientConnectionManager:389 - ep-0000000001 releasing endpoint
+2024-07-23 14:37:11 DEBUG PoolingHttpClientConnectionManager:408 - ep-0000000001 connection http-outgoing-0 can be kept alive for 3 MINUTES
+2024-07-23 14:37:11 DEBUG PoolingHttpClientConnectionManager:421 - ep-0000000001 connection released [route: {s}->https://raw.githubusercontent.com:443][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2024-07-23 14:37:11 DEBUG VersionDetector:237 - Detecting chrome version using online commands.properties
+2024-07-23 14:37:11 DEBUG Shell:65 - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%PROGRAMFILES:\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+2024-07-23 14:37:11 DEBUG Shell:69 - Result: Version=126.0.6478.128
+2024-07-23 14:37:11 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 14:37:11 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 14:37:11 DEBUG ResolutionCache:119 - Storing resolution chrome=126 in cache (valid until 15:37:11 23/07/2024 ALMT)
+2024-07-23 14:37:11 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 14:37:11 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 14:39:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 14:39:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 14:39:17 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 14:39:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 14:39:18 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 14:39:18 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 15:37:11 23/07/2024 ALMT)
+2024-07-23 14:39:18 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 14:39:18 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 14:39:18 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 14:39:18 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 14:41:49 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 14:41:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 14:41:50 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 14:41:50 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 15:37:11 23/07/2024 ALMT)
+2024-07-23 14:41:50 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 14:41:50 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 14:41:50 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 14:41:50 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 14:42:36 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 14:42:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 14:42:37 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 14:42:37 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 15:37:11 23/07/2024 ALMT)
+2024-07-23 14:42:37 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 14:42:37 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 14:42:37 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 14:42:37 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 14:47:00 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 14:47:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 14:47:01 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 14:47:01 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 15:37:11 23/07/2024 ALMT)
+2024-07-23 14:47:01 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 14:47:01 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 14:47:01 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 14:47:01 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 15:24:36 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 15:24:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 15:24:36 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 15:24:37 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 15:37:11 23/07/2024 ALMT)
+2024-07-23 15:24:37 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 15:24:37 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 15:24:37 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 15:24:37 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 15:27:50 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 15:27:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 15:27:51 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 15:27:51 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 15:37:11 23/07/2024 ALMT)
+2024-07-23 15:27:51 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 15:27:51 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 15:27:51 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 15:27:51 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 15:29:06 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 15:29:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 15:29:07 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 15:29:08 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 15:37:11 23/07/2024 ALMT)
+2024-07-23 15:29:08 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 15:29:08 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 15:29:08 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 15:29:08 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 15:31:40 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 15:31:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 15:31:41 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 15:31:41 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 15:37:11 23/07/2024 ALMT)
+2024-07-23 15:31:41 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 15:31:41 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 15:31:41 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 15:31:41 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 15:33:38 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 15:33:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 15:33:38 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 15:33:39 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 15:37:11 23/07/2024 ALMT)
+2024-07-23 15:33:39 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 15:33:39 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 15:33:39 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 15:33:39 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 15:38:04 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 15:38:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 15:38:05 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 15:38:05 DEBUG ResolutionCache:156 - Removing resolution chrome=126 from cache (expired on Tue Jul 23 15:37:11 ALMT 2024)
+2024-07-23 15:38:05 DEBUG InternalHttpClient:164 - ex-0000000001 preparing request execution
+2024-07-23 15:38:05 DEBUG ProtocolExec:181 - ex-0000000001 target auth state: UNCHALLENGED
+2024-07-23 15:38:05 DEBUG ProtocolExec:187 - ex-0000000001 proxy auth state: UNCHALLENGED
+2024-07-23 15:38:05 DEBUG ConnectExec:123 - ex-0000000001 acquiring connection with route {s}->https://raw.githubusercontent.com:443
+2024-07-23 15:38:05 DEBUG InternalHttpClient:101 - ex-0000000001 acquiring endpoint (3 MINUTES)
+2024-07-23 15:38:05 DEBUG PoolingHttpClientConnectionManager:296 - ex-0000000001 endpoint lease request (3 MINUTES) [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 0 of 5; total allocated: 0 of 25]
+2024-07-23 15:38:05 DEBUG PoolingHttpClientConnectionManager:318 - ex-0000000001 endpoint leased [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+2024-07-23 15:38:05 DEBUG PoolingHttpClientConnectionManager:360 - ex-0000000001 acquired ep-0000000001
+2024-07-23 15:38:05 DEBUG InternalHttpClient:116 - ex-0000000001 acquired endpoint ep-0000000001
+2024-07-23 15:38:05 DEBUG ConnectExec:130 - ex-0000000001 opening connection {s}->https://raw.githubusercontent.com:443
+2024-07-23 15:38:05 DEBUG InternalHttpClient:160 - ep-0000000001 connecting endpoint (null)
+2024-07-23 15:38:05 DEBUG PoolingHttpClientConnectionManager:444 - ep-0000000001 connecting endpoint to https://raw.githubusercontent.com:443 (30 SECONDS)
+2024-07-23 15:38:05 DEBUG DefaultHttpClientConnectionOperator:138 - raw.githubusercontent.com resolving remote address
+2024-07-23 15:38:05 DEBUG DefaultHttpClientConnectionOperator:144 - raw.githubusercontent.com resolved to [raw.githubusercontent.com/185.199.111.133, raw.githubusercontent.com/185.199.108.133, raw.githubusercontent.com/185.199.110.133, raw.githubusercontent.com/185.199.109.133]
+2024-07-23 15:38:05 DEBUG DefaultHttpClientConnectionOperator:177 - raw.githubusercontent.com:443 connecting null->raw.githubusercontent.com/185.199.111.133:443 (30 SECONDS)
+2024-07-23 15:38:05 DEBUG SSLConnectionSocketFactory:226 - Connecting socket to raw.githubusercontent.com/185.199.111.133:443 with timeout 30 SECONDS
+2024-07-23 15:38:05 DEBUG SSLConnectionSocketFactory:299 - Enabled protocols: [TLSv1.3, TLSv1.2]
+2024-07-23 15:38:05 DEBUG SSLConnectionSocketFactory:300 - Enabled cipher suites: [TLS_AES_256_GCM_SHA384, TLS_AES_128_GCM_SHA256, TLS_CHACHA20_POLY1305_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2024-07-23 15:38:05 DEBUG SSLConnectionSocketFactory:301 - Starting handshake (null)
+2024-07-23 15:38:05 DEBUG SSLConnectionSocketFactory:59 - Secure session established
+2024-07-23 15:38:05 DEBUG SSLConnectionSocketFactory:60 -  negotiated protocol: TLSv1.3
+2024-07-23 15:38:05 DEBUG SSLConnectionSocketFactory:61 -  negotiated cipher suite: TLS_AES_128_GCM_SHA256
+2024-07-23 15:38:05 DEBUG SSLConnectionSocketFactory:71 -  peer principal: CN=*.github.io, O="GitHub, Inc.", L=San Francisco, ST=California, C=US
+2024-07-23 15:38:05 DEBUG SSLConnectionSocketFactory:80 -  peer alternative names: [*.github.io, github.io, githubusercontent.com, www.github.com, *.github.com, *.githubusercontent.com, github.com]
+2024-07-23 15:38:05 DEBUG SSLConnectionSocketFactory:84 -  issuer principal: CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1, O=DigiCert Inc, C=US
+2024-07-23 15:38:05 DEBUG DefaultManagedHttpClientConnection:165 - http-outgoing-0 set socket timeout to 3 MINUTES
+2024-07-23 15:38:05 DEBUG DefaultHttpClientConnectionOperator:185 - raw.githubusercontent.com:443 connected null->raw.githubusercontent.com/185.199.111.133:443 as http-outgoing-0
+2024-07-23 15:38:05 DEBUG PoolingHttpClientConnectionManager:456 - ep-0000000001 connected http-outgoing-0
+2024-07-23 15:38:05 DEBUG InternalHttpClient:164 - ep-0000000001 endpoint connected
+2024-07-23 15:38:05 DEBUG MainClientExec:107 - ex-0000000001 executing GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+2024-07-23 15:38:05 DEBUG RequestAddCookies:129 - ex-0000000001 Cookie spec selected: strict
+2024-07-23 15:38:05 DEBUG InternalHttpClient:214 - ep-0000000001 start execution ex-0000000001
+2024-07-23 15:38:05 DEBUG PoolingHttpClientConnectionManager:710 - ep-0000000001 executing exchange ex-0000000001 over http-outgoing-0
+2024-07-23 15:38:06 DEBUG headers:200 - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+2024-07-23 15:38:06 DEBUG headers:203 - http-outgoing-0 >> user-agent: Apache-HttpClient/5.0
+2024-07-23 15:38:06 DEBUG headers:203 - http-outgoing-0 >> accept-encoding: gzip, deflate, br
+2024-07-23 15:38:06 DEBUG headers:203 - http-outgoing-0 >> cache-control: max-age=0
+2024-07-23 15:38:06 DEBUG headers:203 - http-outgoing-0 >> connection: keep-alive
+2024-07-23 15:38:06 DEBUG headers:203 - http-outgoing-0 >> Host: raw.githubusercontent.com
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 >> "user-agent: Apache-HttpClient/5.0[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 >> "accept-encoding: gzip, deflate, br[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 >> "cache-control: max-age=0[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 >> "connection: keep-alive[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 >> "[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Content-Length: 745[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "ETag: W/"dd41edff335272162022217759820159dac501cff56850e2510f504462cd9b5f"[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "X-GitHub-Request-Id: 3735:246BC4:232131:25677D:669F02FA[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Date: Tue, 23 Jul 2024 10:38:06 GMT[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "X-Served-By: cache-bma1628-BMA[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "X-Cache: HIT[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "X-Cache-Hits: 8[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "X-Timer: S1721731086.431394,VS0,VE0[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Vary: Authorization,Accept-Encoding,Origin[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Cross-Origin-Resource-Policy: cross-origin[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "X-Fastly-Request-ID: c48d10cdc8dea0b5483f3c23768508f4a7beb223[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Expires: Tue, 23 Jul 2024 10:43:06 GMT[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "Source-Age: 277[\r][\n]"
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "[\r][\n]"
+2024-07-23 15:38:06 DEBUG headers:189 - http-outgoing-0 << HTTP/1.1 200 OK
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Connection: keep-alive
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Content-Length: 745
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Cache-Control: max-age=300
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << ETag: W/"dd41edff335272162022217759820159dac501cff56850e2510f504462cd9b5f"
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << X-Content-Type-Options: nosniff
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << X-Frame-Options: deny
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << X-GitHub-Request-Id: 3735:246BC4:232131:25677D:669F02FA
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Content-Encoding: gzip
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Accept-Ranges: bytes
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Date: Tue, 23 Jul 2024 10:38:06 GMT
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Via: 1.1 varnish
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << X-Served-By: cache-bma1628-BMA
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << X-Cache: HIT
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << X-Cache-Hits: 8
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << X-Timer: S1721731086.431394,VS0,VE0
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Vary: Authorization,Accept-Encoding,Origin
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Access-Control-Allow-Origin: *
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Cross-Origin-Resource-Policy: cross-origin
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << X-Fastly-Request-ID: c48d10cdc8dea0b5483f3c23768508f4a7beb223
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Expires: Tue, 23 Jul 2024 10:43:06 GMT
+2024-07-23 15:38:06 DEBUG headers:192 - http-outgoing-0 << Source-Age: 277
+2024-07-23 15:38:06 DEBUG MainClientExec:138 - ex-0000000001 connection can be kept alive for 3 MINUTES
+2024-07-23 15:38:06 DEBUG wire:92 - http-outgoing-0 << "[0x1f][0xffffff8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xffffffb5]W]o[0xffffffda]0[0x14]}[0xffffffe7]W\QUj% [0x1b][0xffffffad][0xffffffa6]i[0x12][0xf]4c[0xffffffdd]4*[0x18][0xffffffb4][0xffffffdd]&[0xfffffff9][0xffffffc5]$N[0xffffffb0][0xffffff94][0xffffffd8][0xffffffc8]NJ[0xffffffb7]_?[0xffffffdb][0xfffffff9]X[0xffffff92]:[0xffffffa3]k[0xffffffe8][0x1b][0xffffffb6][0xffffffef]=[0xffffffe7][0xffffffd8][0xfffffff7][0xffffffe4][0xffffffda][0xffffff9c][0xffffff80][0xffffffcb][0xffffffe3][0x18]3_[0xffffff82][0xffffff8f][0x13][0xffffffbc][0xffffffc1][0xffffff92][0xfffffff4]N[0xffffffe0]vK%[0x4]4"[0xffffffe0]q[0xffffff96]`[0xffffffca]$$[=[0xffffffc8]C[0x13][0xe][0x1b][0x2][0xffffffe4][0xffffff91]xiB|[0xffffffa0][0xffffffcc],[0xffffffcb]-[0xffffff89]"=[0xffffffe0][0xffffffc2]'B[0x7][0xfffffff9]$!^b[0x16][0x1f][0xffffff88][0xffffff90][0xffffff94][0xffffffab][0xffffffb5][0x0][0xffffff88][0xfffffffa][0x1d][\n]"
+2024-07-23 15:38:06 DEBUG wire:106 - http-outgoing-0 << "B[0x18]l[0x4][0xffffffdf]K[0xffffffb5][0xffffffa0]([0xffffffcf][0xffffffdc][0xffffffad][0xffffffe0]1[0x19][0xffffffc0]'*H[0xffffffc0][0x1f][0x7][0xffffffb0][0xffffffd8][0x11][0xffffff81][0x7]0[0xfffffff3]C5kVi[0x1a][0xffffff9f]k|[0xffffff9f][0x6][0x1][0x11][0xffffff84]%[0xffffffc0]uLBY[0x8][0xfffffff2][0xffffff97]LH,[0xffffffe1][0xffffffec];e[0xffffffbe]B[0x1d][0xffffffc0][0xffffff9c][0xffffffb2]T[0xffffffc1][0xffffffdc]`[0xf][0x16][0xffffffeb][0xfffffff3][0xffffff9e][0xffffffe2][0xffffffc8](z[0xfffffff9]6F[0xffffff9e][0x19][0xffffff8e][0xfffffff6]Y[0xffffffc2][0xffffffe8][0xffffffcd][0xffffffdb][0xffffff89][0x17][0xfffffffb]#[0xffffffb5]+p\[0xffffffd8][0xffffffc7][0xffffffd4]3Gb[0xffffff8e]a[0xffffffbf]U|[0xffffffc0]pL&[0xfffffffd][0xffffffd3][0xffffffe5]jq[0xffffffbd][0xffffff9a][0xffffffde]|[0xfffffffa]2[0xffffff9f][0xffffffad]?[0xffffffa0][0x9]B[0xffffffa7][0x8]]s[0x1e]F[0x4][0xffffffa1][0xffffff8c][0x2][0xffffffa1][0xffffffe9]n[0x17]QOI[0xffffffe3][0xc][0xffffffa1][0xffffff9c]H![0xfffffff7]!$[0x9][0xffffffdc][0xffffffe7]g[0xffffffe1]<[0xffffffe0](m[0xffffffd7]3~[0xffffff81][0xffffff9e][0xffffffb3][0x1f][0xffffffef][0xffffffdf][0xffffff9d][0xffffffbf][0xffffffa6][0xffffffa8][0xffffff8b]g[0xffffff8a][0xffffff9a]/[0xffffffdc][0xffffffe9]|[0xffffffba]\~[0xffffff9c][0xffffffde]N_S[0xffffffcf][0xffffffe5]d5[0xffffffbb][0xffffff86]ow[0xffffffb3][0xffffffd5]O[0xfffffff8][0xfffffffc][0xffffffd5][0xffffffbd]Ck[0x1e]${,H[0xffffffc1][0xffffff96][0xffffff93]][0xffffffcd][0xffffffaf][0x8][0xfffffff6][0xc]^[0xffffffe1][0xffffffc5]^[0x13]4[0xffffffd2][0xffffff8e][0xffffffd1]>pR)[0xffffff9c][\r]eNh0[0xffffff86][0xffffffd9]:[0xc][0xffffff87]E[0xffffffa6]=q<i[0xffffff8b]o&[0xffffffc4][0xffffffd8]3<[0xffffff95][0x13][0xffffff90]N&8w[0xffffffe9][0x8][0xffffffef]v[0xffffff8e][0xffffffab][0xffffffbe]>es[0xffffffe9]([0x13]/[0xffffffd6][0xfffffff5][0xffffff80]*[0xffffffba][0xfffffff2]v[0xfffffffe][0xffffffd9][0xffffff94]DA6>[0xffffff8e][0xffffffbb]o[0xfffffff8]o[0x1a]E[0xffffffb8] A[0xffffffa8]@?T[0xffffffad]'*:{[0xfffffffa]xR.*[0xffffffce][0xffffffe9][0xffffffd7][0xffffffad][0xffffff93][0xffffff93]4[0xffffffc9][0xfffffffa][0xffffffda]<n*t[0xffffffeb][0xffffffb9]oV[0xffffffb6][0xffffffc0]/M[0xffffff94]O[0xffffffc0][0xfffffff0][0xffffffe1]i[0xffffff90][0xffffffb5][0xfffffffe]9[0xffffff8b][0xffffffad][0xfffffff2]U,Ul[0xffffffdd][0x13]KL[0xffffffa2][0x6][0xffffffdd][0xffffffca]\?`[0xffffffea][0x9].[0xffffffd5]I [0xffffffa4]i[0x1a]_i,[\r][0xffffffdd][0xffffffa1][0xffffffc3][0xffffffae]kzI[0xffffffd1]_Q[0xffffffce]Ek[0xffffffcb][0xfffffff8]Kf[0xffffffb8][0xfffffffe][0xffffffd9]3[0xc][0xffffffe6][0xffffffd3][0xffffff8e][0x11][0x17][0x10]C[0x1d]`i[0x19][0xffffffd5][0xffffffbc][0xfffffff1][0xffffffa4]5[0xffffffbc][0x1e]o[0xfffffff5]K[0xffffffa9][0xffffffd6][0xfffffff8][0xffffffc1]f[0xffffff9b]z[0x4][0xffffffd4][0x1a][0xffffff86][0xffffffb9]^K[0x16]s[0xffffff91][0xfffffffe][0xffffffbf][0xffffff8b]l]~)x(p,[0x11]2[0x14][0x8]E8e[0xffffff9e][0xffffffca]:X[0xffffffa6][0xffffff86][0xffffff88].[0xffffffb6]9[0xffffff9a][0xffffff88].[0xfffffff7]]G[0xffffffea][0xffffffcb][0xe][0xfffffffb][0x7f].u[0xffffff83][0xffffffbb][0xfffffff4][0xffffffb3][0x19][0xffffffda][0xffffffec][0xffffff98][0xffffffc5]Y[0xfffffffd]h8m6\4[0xffffffc1][0xffffff8a][0xffffffb7][0xffffff98]z[0xffffffd0][0xffffffd5]oF5q[0x1c][0x13][0x16][0xfffffff0][0x1d][0x1e][0x19]5-[0xffffff9d][0xffffffef][0xffffffad]c[0xb]z[0xffffffae]/m[0xffffffe6]8[0xffffffb6][0xffffff96][0xfffffff6]7X[0xffffffc9]t[0xfffffff8][0xfffffff9][0xffffffa5][0x11]K[0xfffffffb][0x15]3[0xffffffc3][0xfffffffc][0x1f]B[0xffffffdb][0xffffffd3][0xffffffab][0xffffff92]4.[0xffffff93]Z[0xffffffdf]]:[0xffffffda][0xffffffea][0xffffffdc]B[0xffffffa6][0xffffffcd][0xffffffbc][0xffffffae][0x5][0xfffffff5][0x4][0xffffffd6]8[0xffffffc0][0xffffff82][0xffffff96][0xfffffff0][0xffffffd2][0xc][0xffffffed][0xffffffe0]Y[0xffffffa8][\r]:[[0xffffffa9][0x0][0xffffffff][0x1][0xfffffff8][0x15][0xffffffb4][0xffffffee][0xffffff8e][\r][0x0][0x0]"
+2024-07-23 15:38:06 DEBUG InternalHttpClient:256 - ep-0000000001 releasing valid endpoint
+2024-07-23 15:38:06 DEBUG PoolingHttpClientConnectionManager:389 - ep-0000000001 releasing endpoint
+2024-07-23 15:38:06 DEBUG PoolingHttpClientConnectionManager:408 - ep-0000000001 connection http-outgoing-0 can be kept alive for 3 MINUTES
+2024-07-23 15:38:06 DEBUG PoolingHttpClientConnectionManager:421 - ep-0000000001 connection released [route: {s}->https://raw.githubusercontent.com:443][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2024-07-23 15:38:06 DEBUG VersionDetector:237 - Detecting chrome version using online commands.properties
+2024-07-23 15:38:06 DEBUG Shell:65 - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%PROGRAMFILES:\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+2024-07-23 15:38:06 DEBUG Shell:69 - Result: Version=126.0.6478.128
+2024-07-23 15:38:06 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 15:38:06 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 15:38:06 DEBUG ResolutionCache:119 - Storing resolution chrome=126 in cache (valid until 16:38:06 23/07/2024 ALMT)
+2024-07-23 15:38:06 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 15:38:06 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 15:40:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 15:40:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 15:40:08 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 15:40:08 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 16:38:06 23/07/2024 ALMT)
+2024-07-23 15:40:08 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 15:40:08 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 15:40:08 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 15:40:08 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 22:32:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 22:32:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 22:32:22 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 22:32:23 DEBUG ResolutionCache:156 - Removing resolution chrome=126 from cache (expired on Tue Jul 23 16:38:06 ALMT 2024)
+2024-07-23 22:32:23 DEBUG InternalHttpClient:164 - ex-0000000001 preparing request execution
+2024-07-23 22:32:23 DEBUG ProtocolExec:181 - ex-0000000001 target auth state: UNCHALLENGED
+2024-07-23 22:32:23 DEBUG ProtocolExec:187 - ex-0000000001 proxy auth state: UNCHALLENGED
+2024-07-23 22:32:23 DEBUG ConnectExec:123 - ex-0000000001 acquiring connection with route {s}->https://raw.githubusercontent.com:443
+2024-07-23 22:32:23 DEBUG InternalHttpClient:101 - ex-0000000001 acquiring endpoint (3 MINUTES)
+2024-07-23 22:32:23 DEBUG PoolingHttpClientConnectionManager:296 - ex-0000000001 endpoint lease request (3 MINUTES) [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 0 of 5; total allocated: 0 of 25]
+2024-07-23 22:32:23 DEBUG PoolingHttpClientConnectionManager:318 - ex-0000000001 endpoint leased [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+2024-07-23 22:32:23 DEBUG PoolingHttpClientConnectionManager:360 - ex-0000000001 acquired ep-0000000001
+2024-07-23 22:32:23 DEBUG InternalHttpClient:116 - ex-0000000001 acquired endpoint ep-0000000001
+2024-07-23 22:32:23 DEBUG ConnectExec:130 - ex-0000000001 opening connection {s}->https://raw.githubusercontent.com:443
+2024-07-23 22:32:23 DEBUG InternalHttpClient:160 - ep-0000000001 connecting endpoint (null)
+2024-07-23 22:32:23 DEBUG PoolingHttpClientConnectionManager:444 - ep-0000000001 connecting endpoint to https://raw.githubusercontent.com:443 (30 SECONDS)
+2024-07-23 22:32:23 DEBUG DefaultHttpClientConnectionOperator:138 - raw.githubusercontent.com resolving remote address
+2024-07-23 22:32:23 DEBUG DefaultHttpClientConnectionOperator:144 - raw.githubusercontent.com resolved to [raw.githubusercontent.com/185.199.109.133, raw.githubusercontent.com/185.199.108.133, raw.githubusercontent.com/185.199.111.133, raw.githubusercontent.com/185.199.110.133]
+2024-07-23 22:32:23 DEBUG DefaultHttpClientConnectionOperator:177 - raw.githubusercontent.com:443 connecting null->raw.githubusercontent.com/185.199.109.133:443 (30 SECONDS)
+2024-07-23 22:32:23 DEBUG SSLConnectionSocketFactory:226 - Connecting socket to raw.githubusercontent.com/185.199.109.133:443 with timeout 30 SECONDS
+2024-07-23 22:32:23 DEBUG SSLConnectionSocketFactory:299 - Enabled protocols: [TLSv1.3, TLSv1.2]
+2024-07-23 22:32:23 DEBUG SSLConnectionSocketFactory:300 - Enabled cipher suites: [TLS_AES_256_GCM_SHA384, TLS_AES_128_GCM_SHA256, TLS_CHACHA20_POLY1305_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2024-07-23 22:32:23 DEBUG SSLConnectionSocketFactory:301 - Starting handshake (null)
+2024-07-23 22:32:23 DEBUG SSLConnectionSocketFactory:59 - Secure session established
+2024-07-23 22:32:23 DEBUG SSLConnectionSocketFactory:60 -  negotiated protocol: TLSv1.3
+2024-07-23 22:32:23 DEBUG SSLConnectionSocketFactory:61 -  negotiated cipher suite: TLS_AES_128_GCM_SHA256
+2024-07-23 22:32:23 DEBUG SSLConnectionSocketFactory:71 -  peer principal: CN=*.github.io, O="GitHub, Inc.", L=San Francisco, ST=California, C=US
+2024-07-23 22:32:23 DEBUG SSLConnectionSocketFactory:80 -  peer alternative names: [*.github.io, github.io, githubusercontent.com, www.github.com, *.github.com, *.githubusercontent.com, github.com]
+2024-07-23 22:32:23 DEBUG SSLConnectionSocketFactory:84 -  issuer principal: CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1, O=DigiCert Inc, C=US
+2024-07-23 22:32:23 DEBUG DefaultManagedHttpClientConnection:165 - http-outgoing-0 set socket timeout to 3 MINUTES
+2024-07-23 22:32:23 DEBUG DefaultHttpClientConnectionOperator:185 - raw.githubusercontent.com:443 connected null->raw.githubusercontent.com/185.199.109.133:443 as http-outgoing-0
+2024-07-23 22:32:23 DEBUG PoolingHttpClientConnectionManager:456 - ep-0000000001 connected http-outgoing-0
+2024-07-23 22:32:23 DEBUG InternalHttpClient:164 - ep-0000000001 endpoint connected
+2024-07-23 22:32:23 DEBUG MainClientExec:107 - ex-0000000001 executing GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+2024-07-23 22:32:23 DEBUG RequestAddCookies:129 - ex-0000000001 Cookie spec selected: strict
+2024-07-23 22:32:23 DEBUG InternalHttpClient:214 - ep-0000000001 start execution ex-0000000001
+2024-07-23 22:32:23 DEBUG PoolingHttpClientConnectionManager:710 - ep-0000000001 executing exchange ex-0000000001 over http-outgoing-0
+2024-07-23 22:32:23 DEBUG headers:200 - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+2024-07-23 22:32:23 DEBUG headers:203 - http-outgoing-0 >> user-agent: Apache-HttpClient/5.0
+2024-07-23 22:32:23 DEBUG headers:203 - http-outgoing-0 >> accept-encoding: gzip, deflate, br
+2024-07-23 22:32:23 DEBUG headers:203 - http-outgoing-0 >> cache-control: max-age=0
+2024-07-23 22:32:23 DEBUG headers:203 - http-outgoing-0 >> connection: keep-alive
+2024-07-23 22:32:23 DEBUG headers:203 - http-outgoing-0 >> Host: raw.githubusercontent.com
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 >> "user-agent: Apache-HttpClient/5.0[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 >> "accept-encoding: gzip, deflate, br[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 >> "cache-control: max-age=0[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 >> "connection: keep-alive[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 >> "[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Content-Length: 745[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "ETag: W/"dd41edff335272162022217759820159dac501cff56850e2510f504462cd9b5f"[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "X-GitHub-Request-Id: 3735:246BC4:232131:25677D:669F02FA[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Date: Tue, 23 Jul 2024 17:32:24 GMT[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "X-Served-By: cache-bma1682-BMA[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "X-Cache: HIT[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "X-Cache-Hits: 4[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "X-Timer: S1721755944.405281,VS0,VE0[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Vary: Authorization,Accept-Encoding,Origin[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Cross-Origin-Resource-Policy: cross-origin[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "X-Fastly-Request-ID: 6cfa74937e7fa50f30d3b550db5f7226e767e12f[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Expires: Tue, 23 Jul 2024 17:37:24 GMT[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "Source-Age: 129[\r][\n]"
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "[\r][\n]"
+2024-07-23 22:32:23 DEBUG headers:189 - http-outgoing-0 << HTTP/1.1 200 OK
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Connection: keep-alive
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Content-Length: 745
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Cache-Control: max-age=300
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << ETag: W/"dd41edff335272162022217759820159dac501cff56850e2510f504462cd9b5f"
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << X-Content-Type-Options: nosniff
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << X-Frame-Options: deny
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << X-GitHub-Request-Id: 3735:246BC4:232131:25677D:669F02FA
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Content-Encoding: gzip
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Accept-Ranges: bytes
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Date: Tue, 23 Jul 2024 17:32:24 GMT
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Via: 1.1 varnish
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << X-Served-By: cache-bma1682-BMA
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << X-Cache: HIT
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << X-Cache-Hits: 4
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << X-Timer: S1721755944.405281,VS0,VE0
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Vary: Authorization,Accept-Encoding,Origin
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Access-Control-Allow-Origin: *
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Cross-Origin-Resource-Policy: cross-origin
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << X-Fastly-Request-ID: 6cfa74937e7fa50f30d3b550db5f7226e767e12f
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Expires: Tue, 23 Jul 2024 17:37:24 GMT
+2024-07-23 22:32:23 DEBUG headers:192 - http-outgoing-0 << Source-Age: 129
+2024-07-23 22:32:23 DEBUG MainClientExec:138 - ex-0000000001 connection can be kept alive for 3 MINUTES
+2024-07-23 22:32:23 DEBUG wire:92 - http-outgoing-0 << "[0x1f][0xffffff8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xffffffb5]W]o[0xffffffda]0[0x14]}[0xffffffe7]W\QUj% [0x1b][0xffffffad][0xffffffa6]i[0x12][0xf]4c[0xffffffdd]4*[0x18][0xffffffb4][0xffffffdd]&[0xfffffff9][0xffffffc5]$N[0xffffffb0][0xffffff94][0xffffffd8][0xffffffc8]NJ[0xffffffb7]_?[0xffffffdb][0xfffffff9]X[0xffffff92]:[0xffffffa3]k[0xffffffe8][0x1b][0xffffffb6][0xffffffef]=[0xffffffe7][0xffffffd8][0xfffffff7][0xffffffe4][0xffffffda][0xffffff9c][0xffffff80][0xffffffcb][0xffffffe3][0x18]3_[0xffffff82][0xffffff8f][0x13][0xffffffbc][0xffffffc1][0xffffff92][0xfffffff4]N[0xffffffe0]vK%[0x4]4"[0xffffffe0]q[0xffffff96]`[0xffffffca]$$[=[0xffffffc8]C[0x13][0xe][0x1b][0x2][0xffffffe4][0xffffff91]xiB|[0xffffffa0][0xffffffcc],[0xffffffcb]-[0xffffff89]"=[0xffffffe0][0xffffffc2]'B[0x7][0xfffffff9]$!^b[0x16][0x1f][0xffffff88][0xffffff90][0xffffff94][0xffffffab][0xffffffb5][0x0][0xffffff88][0xfffffffa][0x1d][\n]"
+2024-07-23 22:32:23 DEBUG wire:106 - http-outgoing-0 << "B[0x18]l[0x4][0xffffffdf]K[0xffffffb5][0xffffffa0]([0xffffffcf][0xffffffdc][0xffffffad][0xffffffe0]1[0x19][0xffffffc0]'*H[0xffffffc0][0x1f][0x7][0xffffffb0][0xffffffd8][0x11][0xffffff81][0x7]0[0xfffffff3]C5kVi[0x1a][0xffffff9f]k|[0xffffff9f][0x6][0x1][0x11][0xffffff84]%[0xffffffc0]uLBY[0x8][0xfffffff2][0xffffff97]LH,[0xffffffe1][0xffffffec];e[0xffffffbe]B[0x1d][0xffffffc0][0xffffff9c][0xffffffb2]T[0xffffffc1][0xffffffdc]`[0xf][0x16][0xffffffeb][0xfffffff3][0xffffff9e][0xffffffe2][0xffffffc8](z[0xfffffff9]6F[0xffffff9e][0x19][0xffffff8e][0xfffffff6]Y[0xffffffc2][0xffffffe8][0xffffffcd][0xffffffdb][0xffffff89][0x17][0xfffffffb]#[0xffffffb5]+p\[0xffffffd8][0xffffffc7][0xffffffd4]3Gb[0xffffff8e]a[0xffffffbf]U|[0xffffffc0]pL&[0xfffffffd][0xffffffd3][0xffffffe5]jq[0xffffffbd][0xffffff9a][0xffffffde]|[0xfffffffa]2[0xffffff9f][0xffffffad]?[0xffffffa0][0x9]B[0xffffffa7][0x8]]s[0x1e]F[0x4][0xffffffa1][0xffffff8c][0x2][0xffffffa1][0xffffffe9]n[0x17]QOI[0xffffffe3][0xc][0xffffffa1][0xffffff9c]H![0xfffffff7]!$[0x9][0xffffffdc][0xffffffe7]g[0xffffffe1]<[0xffffffe0](m[0xffffffd7]3~[0xffffff81][0xffffff9e][0xffffffb3][0x1f][0xffffffef][0xffffffdf][0xffffff9d][0xffffffbf][0xffffffa6][0xffffffa8][0xffffff8b]g[0xffffff8a][0xffffff9a]/[0xffffffdc][0xffffffe9]|[0xffffffba]\~[0xffffff9c][0xffffffde]N_S[0xffffffcf][0xffffffe5]d5[0xffffffbb][0xffffff86]ow[0xffffffb3][0xffffffd5]O[0xfffffff8][0xfffffffc][0xffffffd5][0xffffffbd]Ck[0x1e]${,H[0xffffffc1][0xffffff96][0xffffff93]][0xffffffcd][0xffffffaf][0x8][0xfffffff6][0xc]^[0xffffffe1][0xffffffc5]^[0x13]4[0xffffffd2][0xffffff8e][0xffffffd1]>pR)[0xffffff9c][\r]eNh0[0xffffff86][0xffffffd9]:[0xc][0xffffff87]E[0xffffffa6]=q<i[0xffffff8b]o&[0xffffffc4][0xffffffd8]3<[0xffffff95][0x13][0xffffff90]N&8w[0xffffffe9][0x8][0xffffffef]v[0xffffff8e][0xffffffab][0xffffffbe]>es[0xffffffe9]([0x13]/[0xffffffd6][0xfffffff5][0xffffff80]*[0xffffffba][0xfffffff2]v[0xfffffffe][0xffffffd9][0xffffff94]DA6>[0xffffff8e][0xffffffbb]o[0xfffffff8]o[0x1a]E[0xffffffb8] A[0xffffffa8]@?T[0xffffffad]'*:{[0xfffffffa]xR.*[0xffffffce][0xffffffe9][0xffffffd7][0xffffffad][0xffffff93][0xffffff93]4[0xffffffc9][0xfffffffa][0xffffffda]<n*t[0xffffffeb][0xffffffb9]oV[0xffffffb6][0xffffffc0]/M[0xffffff94]O[0xffffffc0][0xfffffff0][0xffffffe1]i[0xffffff90][0xffffffb5][0xfffffffe]9[0xffffff8b][0xffffffad][0xfffffff2]U,Ul[0xffffffdd][0x13]KL[0xffffffa2][0x6][0xffffffdd][0xffffffca]\?`[0xffffffea][0x9].[0xffffffd5]I [0xffffffa4]i[0x1a]_i,[\r][0xffffffdd][0xffffffa1][0xffffffc3][0xffffffae]kzI[0xffffffd1]_Q[0xffffffce]Ek[0xffffffcb][0xfffffff8]Kf[0xffffffb8][0xfffffffe][0xffffffd9]3[0xc][0xffffffe6][0xffffffd3][0xffffff8e][0x11][0x17][0x10]C[0x1d]`i[0x19][0xffffffd5][0xffffffbc][0xfffffff1][0xffffffa4]5[0xffffffbc][0x1e]o[0xfffffff5]K[0xffffffa9][0xffffffd6][0xfffffff8][0xffffffc1]f[0xffffff9b]z[0x4][0xffffffd4][0x1a][0xffffff86][0xffffffb9]^K[0x16]s[0xffffff91][0xfffffffe][0xffffffbf][0xffffff8b]l]~)x(p,[0x11]2[0x14][0x8]E8e[0xffffff9e][0xffffffca]:X[0xffffffa6][0xffffff86][0xffffff88].[0xffffffb6]9[0xffffff9a][0xffffff88].[0xfffffff7]]G[0xffffffea][0xffffffcb][0xe][0xfffffffb][0x7f].u[0xffffff83][0xffffffbb][0xfffffff4][0xffffffb3][0x19][0xffffffda][0xffffffec][0xffffff98][0xffffffc5]Y[0xfffffffd]h8m6\4[0xffffffc1][0xffffff8a][0xffffffb7][0xffffff98]z[0xffffffd0][0xffffffd5]oF5q[0x1c][0x13][0x16][0xfffffff0][0x1d][0x1e][0x19]5-[0xffffff9d][0xffffffef][0xffffffad]c[0xb]z[0xffffffae]/m[0xffffffe6]8[0xffffffb6][0xffffff96][0xfffffff6]7X[0xffffffc9]t[0xfffffff8][0xfffffff9][0xffffffa5][0x11]K[0xfffffffb][0x15]3[0xffffffc3][0xfffffffc][0x1f]B[0xffffffdb][0xffffffd3][0xffffffab][0xffffff92]4.[0xffffff93]Z[0xffffffdf]]:[0xffffffda][0xffffffea][0xffffffdc]B[0xffffffa6][0xffffffcd][0xffffffbc][0xffffffae][0x5][0xfffffff5][0x4][0xffffffd6]8[0xffffffc0][0xffffff82][0xffffff96][0xfffffff0][0xffffffd2][0xc][0xffffffed][0xffffffe0]Y[0xffffffa8][\r]:[[0xffffffa9][0x0][0xffffffff][0x1][0xfffffff8][0x15][0xffffffb4][0xffffffee][0xffffff8e][\r][0x0][0x0]"
+2024-07-23 22:32:23 DEBUG InternalHttpClient:256 - ep-0000000001 releasing valid endpoint
+2024-07-23 22:32:23 DEBUG PoolingHttpClientConnectionManager:389 - ep-0000000001 releasing endpoint
+2024-07-23 22:32:23 DEBUG PoolingHttpClientConnectionManager:408 - ep-0000000001 connection http-outgoing-0 can be kept alive for 3 MINUTES
+2024-07-23 22:32:23 DEBUG PoolingHttpClientConnectionManager:421 - ep-0000000001 connection released [route: {s}->https://raw.githubusercontent.com:443][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2024-07-23 22:32:23 DEBUG VersionDetector:237 - Detecting chrome version using online commands.properties
+2024-07-23 22:32:23 DEBUG Shell:65 - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%PROGRAMFILES:\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+2024-07-23 22:32:24 DEBUG Shell:69 - Result: Version=126.0.6478.128
+2024-07-23 22:32:24 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 22:32:24 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 22:32:24 DEBUG ResolutionCache:119 - Storing resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 22:32:24 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 22:32:24 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 22:35:56 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 22:35:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 22:35:57 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 22:35:57 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 22:35:57 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 22:35:57 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 22:35:57 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 22:35:57 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 22:44:23 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 22:44:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 22:44:24 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 22:44:24 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 22:44:24 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 22:44:24 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 22:44:24 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 22:44:24 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 22:45:12 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 22:45:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 22:45:13 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 22:45:13 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 22:45:13 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 22:45:13 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 22:45:13 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 22:45:13 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 22:46:12 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 22:46:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 22:46:13 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 22:46:13 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 22:46:13 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 22:46:13 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 22:46:14 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 22:46:14 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 22:47:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 22:47:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 22:47:07 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 22:47:08 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 22:47:08 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 22:47:08 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 22:47:08 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 22:47:08 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 22:55:52 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 22:55:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 22:55:53 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 22:55:53 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 22:55:53 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 22:55:53 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 22:55:53 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 22:55:53 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:09:09 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:09:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:09:10 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:09:10 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:09:10 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:09:10 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:09:10 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:09:10 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:09:49 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:09:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:09:50 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:09:50 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:09:50 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:09:50 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:09:50 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:09:50 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:10:06 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:10:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:10:07 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:10:07 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:10:07 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:10:07 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:10:07 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:10:07 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:10:21 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:10:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:10:23 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:10:23 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:10:23 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:10:23 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:10:23 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:10:23 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:10:45 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:10:49 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:10:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:10:50 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:10:51 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:10:51 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:10:51 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:10:51 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:10:51 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:11:10 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:11:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:11:11 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:11:12 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:11:12 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:11:12 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:11:12 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:11:12 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:11:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:11:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:11:33 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:11:33 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:11:33 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:11:33 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:11:34 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:11:34 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:11:51 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:11:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:11:53 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:11:53 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:11:53 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:11:53 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:11:53 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:11:53 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:12:09 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:12:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:12:10 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:12:10 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:12:10 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:12:10 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:12:10 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:12:10 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:12:28 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:12:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:12:29 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:12:29 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:12:29 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:12:29 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:12:29 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:12:29 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:12:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:12:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:12:45 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:12:46 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:12:46 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:12:46 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:12:46 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:12:46 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:13:02 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:13:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:13:03 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:13:04 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:13:04 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:13:04 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:13:04 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:13:04 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:16:29 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:16:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:16:30 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:16:31 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:16:31 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:16:31 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:16:31 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:16:31 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:17:03 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:17:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:17:04 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:17:04 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:17:04 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:17:04 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:17:04 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:17:04 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:17:24 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:17:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:17:25 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:17:25 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:17:25 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:17:25 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:17:25 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:17:25 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:17:37 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:17:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:17:39 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:17:39 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:17:39 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:17:39 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:17:39 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:17:39 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:17:53 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:17:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:17:54 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:17:55 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:17:55 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:17:55 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:17:55 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:17:55 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:18:08 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:18:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:18:09 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:18:10 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:18:10 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:18:10 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:18:10 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:18:10 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:19:26 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:19:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:19:27 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:19:27 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:19:27 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:19:27 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:19:27 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:19:27 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:19:50 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:19:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:19:51 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:19:51 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:19:51 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:19:51 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:19:51 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:19:51 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:20:31 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:20:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:20:32 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:20:33 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:20:33 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:20:33 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:20:33 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:20:33 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:23:04 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:23:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:23:05 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:23:06 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 23:32:24 23/07/2024 ALMT)
+2024-07-23 23:23:06 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:23:06 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:23:06 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:23:06 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:41:56 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:42:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:42:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:42:08 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:42:09 DEBUG ResolutionCache:156 - Removing resolution chrome=126 from cache (expired on Tue Jul 23 23:32:24 ALMT 2024)
+2024-07-23 23:42:09 DEBUG InternalHttpClient:164 - ex-0000000001 preparing request execution
+2024-07-23 23:42:09 DEBUG ProtocolExec:181 - ex-0000000001 target auth state: UNCHALLENGED
+2024-07-23 23:42:09 DEBUG ProtocolExec:187 - ex-0000000001 proxy auth state: UNCHALLENGED
+2024-07-23 23:42:09 DEBUG ConnectExec:123 - ex-0000000001 acquiring connection with route {s}->https://raw.githubusercontent.com:443
+2024-07-23 23:42:09 DEBUG InternalHttpClient:101 - ex-0000000001 acquiring endpoint (3 MINUTES)
+2024-07-23 23:42:09 DEBUG PoolingHttpClientConnectionManager:296 - ex-0000000001 endpoint lease request (3 MINUTES) [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 0 of 5; total allocated: 0 of 25]
+2024-07-23 23:42:09 DEBUG PoolingHttpClientConnectionManager:318 - ex-0000000001 endpoint leased [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+2024-07-23 23:42:09 DEBUG PoolingHttpClientConnectionManager:360 - ex-0000000001 acquired ep-0000000001
+2024-07-23 23:42:09 DEBUG InternalHttpClient:116 - ex-0000000001 acquired endpoint ep-0000000001
+2024-07-23 23:42:09 DEBUG ConnectExec:130 - ex-0000000001 opening connection {s}->https://raw.githubusercontent.com:443
+2024-07-23 23:42:09 DEBUG InternalHttpClient:160 - ep-0000000001 connecting endpoint (null)
+2024-07-23 23:42:09 DEBUG PoolingHttpClientConnectionManager:444 - ep-0000000001 connecting endpoint to https://raw.githubusercontent.com:443 (30 SECONDS)
+2024-07-23 23:42:09 DEBUG DefaultHttpClientConnectionOperator:138 - raw.githubusercontent.com resolving remote address
+2024-07-23 23:42:09 DEBUG DefaultHttpClientConnectionOperator:144 - raw.githubusercontent.com resolved to [raw.githubusercontent.com/185.199.109.133, raw.githubusercontent.com/185.199.108.133, raw.githubusercontent.com/185.199.110.133, raw.githubusercontent.com/185.199.111.133]
+2024-07-23 23:42:09 DEBUG DefaultHttpClientConnectionOperator:177 - raw.githubusercontent.com:443 connecting null->raw.githubusercontent.com/185.199.109.133:443 (30 SECONDS)
+2024-07-23 23:42:09 DEBUG SSLConnectionSocketFactory:226 - Connecting socket to raw.githubusercontent.com/185.199.109.133:443 with timeout 30 SECONDS
+2024-07-23 23:42:09 DEBUG SSLConnectionSocketFactory:299 - Enabled protocols: [TLSv1.3, TLSv1.2]
+2024-07-23 23:42:09 DEBUG SSLConnectionSocketFactory:300 - Enabled cipher suites: [TLS_AES_256_GCM_SHA384, TLS_AES_128_GCM_SHA256, TLS_CHACHA20_POLY1305_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2024-07-23 23:42:09 DEBUG SSLConnectionSocketFactory:301 - Starting handshake (null)
+2024-07-23 23:42:09 DEBUG SSLConnectionSocketFactory:59 - Secure session established
+2024-07-23 23:42:09 DEBUG SSLConnectionSocketFactory:60 -  negotiated protocol: TLSv1.3
+2024-07-23 23:42:09 DEBUG SSLConnectionSocketFactory:61 -  negotiated cipher suite: TLS_AES_128_GCM_SHA256
+2024-07-23 23:42:09 DEBUG SSLConnectionSocketFactory:71 -  peer principal: CN=*.github.io, O="GitHub, Inc.", L=San Francisco, ST=California, C=US
+2024-07-23 23:42:09 DEBUG SSLConnectionSocketFactory:80 -  peer alternative names: [*.github.io, github.io, githubusercontent.com, www.github.com, *.github.com, *.githubusercontent.com, github.com]
+2024-07-23 23:42:09 DEBUG SSLConnectionSocketFactory:84 -  issuer principal: CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1, O=DigiCert Inc, C=US
+2024-07-23 23:42:09 DEBUG DefaultManagedHttpClientConnection:165 - http-outgoing-0 set socket timeout to 3 MINUTES
+2024-07-23 23:42:09 DEBUG DefaultHttpClientConnectionOperator:185 - raw.githubusercontent.com:443 connected null->raw.githubusercontent.com/185.199.109.133:443 as http-outgoing-0
+2024-07-23 23:42:09 DEBUG PoolingHttpClientConnectionManager:456 - ep-0000000001 connected http-outgoing-0
+2024-07-23 23:42:09 DEBUG InternalHttpClient:164 - ep-0000000001 endpoint connected
+2024-07-23 23:42:09 DEBUG MainClientExec:107 - ex-0000000001 executing GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+2024-07-23 23:42:09 DEBUG RequestAddCookies:129 - ex-0000000001 Cookie spec selected: strict
+2024-07-23 23:42:09 DEBUG InternalHttpClient:214 - ep-0000000001 start execution ex-0000000001
+2024-07-23 23:42:09 DEBUG PoolingHttpClientConnectionManager:710 - ep-0000000001 executing exchange ex-0000000001 over http-outgoing-0
+2024-07-23 23:42:09 DEBUG headers:200 - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+2024-07-23 23:42:09 DEBUG headers:203 - http-outgoing-0 >> user-agent: Apache-HttpClient/5.0
+2024-07-23 23:42:09 DEBUG headers:203 - http-outgoing-0 >> accept-encoding: gzip, deflate, br
+2024-07-23 23:42:09 DEBUG headers:203 - http-outgoing-0 >> cache-control: max-age=0
+2024-07-23 23:42:09 DEBUG headers:203 - http-outgoing-0 >> connection: keep-alive
+2024-07-23 23:42:09 DEBUG headers:203 - http-outgoing-0 >> Host: raw.githubusercontent.com
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 >> "user-agent: Apache-HttpClient/5.0[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 >> "accept-encoding: gzip, deflate, br[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 >> "cache-control: max-age=0[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 >> "connection: keep-alive[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 >> "[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Content-Length: 745[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "ETag: W/"dd41edff335272162022217759820159dac501cff56850e2510f504462cd9b5f"[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "X-GitHub-Request-Id: 3735:246BC4:232131:25677D:669F02FA[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Date: Tue, 23 Jul 2024 18:42:10 GMT[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "X-Served-By: cache-bma1620-BMA[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "X-Cache: HIT[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "X-Cache-Hits: 1[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "X-Timer: S1721760130.495131,VS0,VE1[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Vary: Authorization,Accept-Encoding,Origin[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Cross-Origin-Resource-Policy: cross-origin[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "X-Fastly-Request-ID: 86d62559bb567eb3d89dcee27cc359b263b26a4b[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Expires: Tue, 23 Jul 2024 18:47:10 GMT[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "Source-Age: 96[\r][\n]"
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "[\r][\n]"
+2024-07-23 23:42:09 DEBUG headers:189 - http-outgoing-0 << HTTP/1.1 200 OK
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Connection: keep-alive
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Content-Length: 745
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Cache-Control: max-age=300
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << ETag: W/"dd41edff335272162022217759820159dac501cff56850e2510f504462cd9b5f"
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << X-Content-Type-Options: nosniff
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << X-Frame-Options: deny
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << X-GitHub-Request-Id: 3735:246BC4:232131:25677D:669F02FA
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Content-Encoding: gzip
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Accept-Ranges: bytes
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Date: Tue, 23 Jul 2024 18:42:10 GMT
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Via: 1.1 varnish
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << X-Served-By: cache-bma1620-BMA
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << X-Cache: HIT
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << X-Cache-Hits: 1
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << X-Timer: S1721760130.495131,VS0,VE1
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Vary: Authorization,Accept-Encoding,Origin
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Access-Control-Allow-Origin: *
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Cross-Origin-Resource-Policy: cross-origin
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << X-Fastly-Request-ID: 86d62559bb567eb3d89dcee27cc359b263b26a4b
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Expires: Tue, 23 Jul 2024 18:47:10 GMT
+2024-07-23 23:42:09 DEBUG headers:192 - http-outgoing-0 << Source-Age: 96
+2024-07-23 23:42:09 DEBUG MainClientExec:138 - ex-0000000001 connection can be kept alive for 3 MINUTES
+2024-07-23 23:42:09 DEBUG wire:92 - http-outgoing-0 << "[0x1f][0xffffff8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xffffffb5]W]o[0xffffffda]0[0x14]}[0xffffffe7]W\QUj% [0x1b][0xffffffad][0xffffffa6]i[0x12][0xf]4c[0xffffffdd]4*[0x18][0xffffffb4][0xffffffdd]&[0xfffffff9][0xffffffc5]$N[0xffffffb0][0xffffff94][0xffffffd8][0xffffffc8]NJ[0xffffffb7]_?[0xffffffdb][0xfffffff9]X[0xffffff92]:[0xffffffa3]k[0xffffffe8][0x1b][0xffffffb6][0xffffffef]=[0xffffffe7][0xffffffd8][0xfffffff7][0xffffffe4][0xffffffda][0xffffff9c][0xffffff80][0xffffffcb][0xffffffe3][0x18]3_[0xffffff82][0xffffff8f][0x13][0xffffffbc][0xffffffc1][0xffffff92][0xfffffff4]N[0xffffffe0]vK%[0x4]4"[0xffffffe0]q[0xffffff96]`[0xffffffca]$$[=[0xffffffc8]C[0x13][0xe][0x1b][0x2][0xffffffe4][0xffffff91]xiB|[0xffffffa0][0xffffffcc],[0xffffffcb]-[0xffffff89]"=[0xffffffe0][0xffffffc2]'B[0x7][0xfffffff9]$!^b[0x16][0x1f][0xffffff88][0xffffff90][0xffffff94][0xffffffab][0xffffffb5][0x0][0xffffff88][0xfffffffa][0x1d][\n]"
+2024-07-23 23:42:09 DEBUG wire:106 - http-outgoing-0 << "B[0x18]l[0x4][0xffffffdf]K[0xffffffb5][0xffffffa0]([0xffffffcf][0xffffffdc][0xffffffad][0xffffffe0]1[0x19][0xffffffc0]'*H[0xffffffc0][0x1f][0x7][0xffffffb0][0xffffffd8][0x11][0xffffff81][0x7]0[0xfffffff3]C5kVi[0x1a][0xffffff9f]k|[0xffffff9f][0x6][0x1][0x11][0xffffff84]%[0xffffffc0]uLBY[0x8][0xfffffff2][0xffffff97]LH,[0xffffffe1][0xffffffec];e[0xffffffbe]B[0x1d][0xffffffc0][0xffffff9c][0xffffffb2]T[0xffffffc1][0xffffffdc]`[0xf][0x16][0xffffffeb][0xfffffff3][0xffffff9e][0xffffffe2][0xffffffc8](z[0xfffffff9]6F[0xffffff9e][0x19][0xffffff8e][0xfffffff6]Y[0xffffffc2][0xffffffe8][0xffffffcd][0xffffffdb][0xffffff89][0x17][0xfffffffb]#[0xffffffb5]+p\[0xffffffd8][0xffffffc7][0xffffffd4]3Gb[0xffffff8e]a[0xffffffbf]U|[0xffffffc0]pL&[0xfffffffd][0xffffffd3][0xffffffe5]jq[0xffffffbd][0xffffff9a][0xffffffde]|[0xfffffffa]2[0xffffff9f][0xffffffad]?[0xffffffa0][0x9]B[0xffffffa7][0x8]]s[0x1e]F[0x4][0xffffffa1][0xffffff8c][0x2][0xffffffa1][0xffffffe9]n[0x17]QOI[0xffffffe3][0xc][0xffffffa1][0xffffff9c]H![0xfffffff7]!$[0x9][0xffffffdc][0xffffffe7]g[0xffffffe1]<[0xffffffe0](m[0xffffffd7]3~[0xffffff81][0xffffff9e][0xffffffb3][0x1f][0xffffffef][0xffffffdf][0xffffff9d][0xffffffbf][0xffffffa6][0xffffffa8][0xffffff8b]g[0xffffff8a][0xffffff9a]/[0xffffffdc][0xffffffe9]|[0xffffffba]\~[0xffffff9c][0xffffffde]N_S[0xffffffcf][0xffffffe5]d5[0xffffffbb][0xffffff86]ow[0xffffffb3][0xffffffd5]O[0xfffffff8][0xfffffffc][0xffffffd5][0xffffffbd]Ck[0x1e]${,H[0xffffffc1][0xffffff96][0xffffff93]][0xffffffcd][0xffffffaf][0x8][0xfffffff6][0xc]^[0xffffffe1][0xffffffc5]^[0x13]4[0xffffffd2][0xffffff8e][0xffffffd1]>pR)[0xffffff9c][\r]eNh0[0xffffff86][0xffffffd9]:[0xc][0xffffff87]E[0xffffffa6]=q<i[0xffffff8b]o&[0xffffffc4][0xffffffd8]3<[0xffffff95][0x13][0xffffff90]N&8w[0xffffffe9][0x8][0xffffffef]v[0xffffff8e][0xffffffab][0xffffffbe]>es[0xffffffe9]([0x13]/[0xffffffd6][0xfffffff5][0xffffff80]*[0xffffffba][0xfffffff2]v[0xfffffffe][0xffffffd9][0xffffff94]DA6>[0xffffff8e][0xffffffbb]o[0xfffffff8]o[0x1a]E[0xffffffb8] A[0xffffffa8]@?T[0xffffffad]'*:{[0xfffffffa]xR.*[0xffffffce][0xffffffe9][0xffffffd7][0xffffffad][0xffffff93][0xffffff93]4[0xffffffc9][0xfffffffa][0xffffffda]<n*t[0xffffffeb][0xffffffb9]oV[0xffffffb6][0xffffffc0]/M[0xffffff94]O[0xffffffc0][0xfffffff0][0xffffffe1]i[0xffffff90][0xffffffb5][0xfffffffe]9[0xffffff8b][0xffffffad][0xfffffff2]U,Ul[0xffffffdd][0x13]KL[0xffffffa2][0x6][0xffffffdd][0xffffffca]\?`[0xffffffea][0x9].[0xffffffd5]I [0xffffffa4]i[0x1a]_i,[\r][0xffffffdd][0xffffffa1][0xffffffc3][0xffffffae]kzI[0xffffffd1]_Q[0xffffffce]Ek[0xffffffcb][0xfffffff8]Kf[0xffffffb8][0xfffffffe][0xffffffd9]3[0xc][0xffffffe6][0xffffffd3][0xffffff8e][0x11][0x17][0x10]C[0x1d]`i[0x19][0xffffffd5][0xffffffbc][0xfffffff1][0xffffffa4]5[0xffffffbc][0x1e]o[0xfffffff5]K[0xffffffa9][0xffffffd6][0xfffffff8][0xffffffc1]f[0xffffff9b]z[0x4][0xffffffd4][0x1a][0xffffff86][0xffffffb9]^K[0x16]s[0xffffff91][0xfffffffe][0xffffffbf][0xffffff8b]l]~)x(p,[0x11]2[0x14][0x8]E8e[0xffffff9e][0xffffffca]:X[0xffffffa6][0xffffff86][0xffffff88].[0xffffffb6]9[0xffffff9a][0xffffff88].[0xfffffff7]]G[0xffffffea][0xffffffcb][0xe][0xfffffffb][0x7f].u[0xffffff83][0xffffffbb][0xfffffff4][0xffffffb3][0x19][0xffffffda][0xffffffec][0xffffff98][0xffffffc5]Y[0xfffffffd]h8m6\4[0xffffffc1][0xffffff8a][0xffffffb7][0xffffff98]z[0xffffffd0][0xffffffd5]oF5q[0x1c][0x13][0x16][0xfffffff0][0x1d][0x1e][0x19]5-[0xffffff9d][0xffffffef][0xffffffad]c[0xb]z[0xffffffae]/m[0xffffffe6]8[0xffffffb6][0xffffff96][0xfffffff6]7X[0xffffffc9]t[0xfffffff8][0xfffffff9][0xffffffa5][0x11]K[0xfffffffb][0x15]3[0xffffffc3][0xfffffffc][0x1f]B[0xffffffdb][0xffffffd3][0xffffffab][0xffffff92]4.[0xffffff93]Z[0xffffffdf]]:[0xffffffda][0xffffffea][0xffffffdc]B[0xffffffa6][0xffffffcd][0xffffffbc][0xffffffae][0x5][0xfffffff5][0x4][0xffffffd6]8[0xffffffc0][0xffffff82][0xffffff96][0xfffffff0][0xffffffd2][0xc][0xffffffed][0xffffffe0]Y[0xffffffa8][\r]:[[0xffffffa9][0x0][0xffffffff][0x1][0xfffffff8][0x15][0xffffffb4][0xffffffee][0xffffff8e][\r][0x0][0x0]"
+2024-07-23 23:42:09 DEBUG InternalHttpClient:256 - ep-0000000001 releasing valid endpoint
+2024-07-23 23:42:09 DEBUG PoolingHttpClientConnectionManager:389 - ep-0000000001 releasing endpoint
+2024-07-23 23:42:09 DEBUG PoolingHttpClientConnectionManager:408 - ep-0000000001 connection http-outgoing-0 can be kept alive for 3 MINUTES
+2024-07-23 23:42:09 DEBUG PoolingHttpClientConnectionManager:421 - ep-0000000001 connection released [route: {s}->https://raw.githubusercontent.com:443][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2024-07-23 23:42:10 DEBUG VersionDetector:237 - Detecting chrome version using online commands.properties
+2024-07-23 23:42:10 DEBUG Shell:65 - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%PROGRAMFILES:\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+2024-07-23 23:42:10 DEBUG Shell:69 - Result: Version=126.0.6478.128
+2024-07-23 23:42:10 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:42:10 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:42:10 DEBUG ResolutionCache:119 - Storing resolution chrome=126 in cache (valid until 00:42:10 24/07/2024 ALMT)
+2024-07-23 23:42:10 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:42:10 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:42:58 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:42:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:42:58 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:42:59 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 00:42:10 24/07/2024 ALMT)
+2024-07-23 23:42:59 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:42:59 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:42:59 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:42:59 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 23:43:52 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
+2024-07-23 23:43:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ннн\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-07-23 23:43:53 DEBUG WebDriverManager:227 - Using WebDriverManager 5.9.1
+2024-07-23 23:43:54 DEBUG ResolutionCache:186 - Resolution chrome=126 in cache (valid until 00:42:10 24/07/2024 ALMT)
+2024-07-23 23:43:54 DEBUG ResolutionCache:186 - Resolution chrome126=126.0.6478.182 in cache (valid until 12:19:50 24/07/2024 ALMT)
+2024-07-23 23:43:54 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 23:43:54 DEBUG WebDriverManager:1179 - Driver chromedriver 126.0.6478.182 found in cache
+2024-07-23 23:43:54 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\ннн\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
