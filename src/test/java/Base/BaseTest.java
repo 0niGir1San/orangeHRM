@@ -15,7 +15,7 @@ import org.testng.annotations.BeforeClass;
 
 public class BaseTest {
 
-    protected WebDriver driver;
+    protected static WebDriver driver;
     protected RandomUtils randomUtils;
     protected WebElementActions webElementActions;
 

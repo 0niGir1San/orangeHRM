@@ -1,9 +1,16 @@
 import Base.BaseTest;
 import com.orange.enums.SideBarMenuEnum;
-import com.orange.utils.ConfigReader;
+import io.github.bonigarcia.wdm.WebDriverManager;
+import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
 public class SideBArMenuTest extends BaseTest {
+
+
+    public static WebDriver loadChromeWebDriver() {
+        WebDriverManager.chromedriver().setup();
+        return driver;
+    }
 
     @Test
     void sideBarMenuTest(){
